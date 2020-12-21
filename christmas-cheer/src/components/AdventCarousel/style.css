@@ -1,0 +1,12 @@
+.container-fluid {
+    background-color: gray;
+}
+        @media (max-width: 600px) {
+            .container-fluid {
+            background-color: steelblue;
+            }
+        }
+
+.carouselItem {
+    height: 400px;
+}
