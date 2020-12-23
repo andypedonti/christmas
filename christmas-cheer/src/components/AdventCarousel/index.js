@@ -10,12 +10,7 @@ import { adventContent } from "./adventContent";
 
 export class BootstrapCarousel extends Component {
     render() {
-        const style = {
-            height: '400px',
-            width: '500px'
 
-
-        };
         return (
 
             < div className="container-fluid">
@@ -23,7 +18,7 @@ export class BootstrapCarousel extends Component {
                     {
                         adventContent.map((item) =>
                             <Carousel.Item className="carouselItem">
-                                <img style={style}
+                                <img className="cotton-image"
 
                                     src={item.src}
                                     alt={item.title}

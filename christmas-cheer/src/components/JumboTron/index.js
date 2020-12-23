@@ -3,10 +3,14 @@ import React from 'react';
 import styled from 'styled-components';
 
 const StyledDiv = styled.div`
-background: steelblue;
+background: forestgreen;
+color: crimson;
 height: 150px;
 width: 100%;
 text-align: center
+@media (max-width: 768px) {
+    font-size: 10px
+}
 
 `;
 

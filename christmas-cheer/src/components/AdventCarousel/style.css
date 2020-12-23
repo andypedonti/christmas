@@ -1,12 +1,25 @@
 .container-fluid {
-    background-color: gray;
+    background-color:forestgreen;
 }
-        @media (max-width: 600px) {
+        @media screen and (max-width: 600px) {
             .container-fluid {
-            background-color: steelblue;
+            background-color: forestgreen;
+            }
+            .cotton-image {
+                height: 400px;
+                width: 300px
+            }
+            .carouselItem {
+                height: 400px;
             }
         }
 
 .carouselItem {
-    height: 400px;
+    height: 600px;
 }
+
+.cotton-image {
+    height: 600px;
+    width: 500px;
+}
+
