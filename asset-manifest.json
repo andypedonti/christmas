@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.a3477468.chunk.css",
-    "main.js": "/static/js/main.27438a87.chunk.js",
-    "main.js.map": "/static/js/main.27438a87.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.15b75615.js",
-    "runtime-main.js.map": "/static/js/runtime-main.15b75615.js.map",
-    "static/css/2.20aa2d7b.chunk.css": "/static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.84cbbc13.chunk.js": "/static/js/2.84cbbc13.chunk.js",
-    "static/js/2.84cbbc13.chunk.js.map": "/static/js/2.84cbbc13.chunk.js.map",
-    "static/js/3.b8a8a1e1.chunk.js": "/static/js/3.b8a8a1e1.chunk.js",
-    "static/js/3.b8a8a1e1.chunk.js.map": "/static/js/3.b8a8a1e1.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.20aa2d7b.chunk.css.map": "/static/css/2.20aa2d7b.chunk.css.map",
-    "static/css/main.a3477468.chunk.css.map": "/static/css/main.a3477468.chunk.css.map",
-    "static/js/2.84cbbc13.chunk.js.LICENSE.txt": "/static/js/2.84cbbc13.chunk.js.LICENSE.txt"
+    "main.css": "/christmas/static/css/main.a3477468.chunk.css",
+    "main.js": "/christmas/static/js/main.27438a87.chunk.js",
+    "main.js.map": "/christmas/static/js/main.27438a87.chunk.js.map",
+    "runtime-main.js": "/christmas/static/js/runtime-main.67c684ce.js",
+    "runtime-main.js.map": "/christmas/static/js/runtime-main.67c684ce.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/christmas/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.e4824333.chunk.js": "/christmas/static/js/2.e4824333.chunk.js",
+    "static/js/2.e4824333.chunk.js.map": "/christmas/static/js/2.e4824333.chunk.js.map",
+    "static/js/3.b8a8a1e1.chunk.js": "/christmas/static/js/3.b8a8a1e1.chunk.js",
+    "static/js/3.b8a8a1e1.chunk.js.map": "/christmas/static/js/3.b8a8a1e1.chunk.js.map",
+    "index.html": "/christmas/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/christmas/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.a3477468.chunk.css.map": "/christmas/static/css/main.a3477468.chunk.css.map",
+    "static/js/2.e4824333.chunk.js.LICENSE.txt": "/christmas/static/js/2.e4824333.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.15b75615.js",
+    "static/js/runtime-main.67c684ce.js",
     "static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.84cbbc13.chunk.js",
+    "static/js/2.e4824333.chunk.js",
     "static/css/main.a3477468.chunk.css",
     "static/js/main.27438a87.chunk.js"
   ]
